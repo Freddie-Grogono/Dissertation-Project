@@ -1,0 +1,3 @@
+Dianthus_deltoides	25
+Nelumbo_nucifera	25
+Viburnum_opulus	50

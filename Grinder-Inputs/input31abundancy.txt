@@ -1,0 +1,2 @@
+Dianthus_deltoides	25
+Primula_algida	75

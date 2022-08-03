@@ -1,0 +1,2 @@
+Papaver_rhoeas	10
+Helianthus_tuberosus	90

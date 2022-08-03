@@ -1,0 +1,3 @@
+Asparagus_officinalis	10
+Geum_rivale	10
+Digitalis_purpurea	80

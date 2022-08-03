@@ -1,0 +1,4 @@
+Cirsium_vulgare	25
+Helianthus_tuberosus	25
+Fragaria_vesca	25
+Lamium_galeobdolon	25
