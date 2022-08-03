@@ -1,0 +1,4 @@
+Iris_pseudacorus	10
+Hedera_helix	10
+Ocimum_basilicum	10
+Valeriana_officinalis	70

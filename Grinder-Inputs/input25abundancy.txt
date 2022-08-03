@@ -1,0 +1,3 @@
+Valeriana_officinalis	20
+Poa_sylvestris	50
+Gomphrena_globosa	30

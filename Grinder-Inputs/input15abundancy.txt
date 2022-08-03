@@ -1,0 +1,4 @@
+Berchemia_lineata	10
+Dianthus_deltoides	20
+Dahlia_coccinea	20
+Hieracium_umbellatum	30

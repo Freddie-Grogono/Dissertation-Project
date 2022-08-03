@@ -1,0 +1,3 @@
+Chrysanthemum_indicum	25
+Primula_algida	25
+Dahlia_coccinea	50

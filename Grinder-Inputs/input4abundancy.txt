@@ -1,0 +1,4 @@
+Viburnum_opulus	30
+Achillea_millefolium	30
+Hieracium_umbellatum	30
+Primula_vulgaris	10

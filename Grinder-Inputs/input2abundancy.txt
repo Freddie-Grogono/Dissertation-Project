@@ -1,0 +1,3 @@
+Nepeta_cataria	10
+Aster_amellus	20
+Agrostemma_githago	70

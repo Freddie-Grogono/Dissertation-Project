@@ -1,0 +1,4 @@
+Chrysanthemum_indicum	10
+Iris_pseudacorus	10
+Aster_amellus	10
+Crataegus_monogyna_x_Crataegus	70

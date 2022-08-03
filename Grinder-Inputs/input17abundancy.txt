@@ -1,0 +1,4 @@
+Helleborus_foetidus	10
+Primula_veris	10
+Mentha_aquatica	10
+Gentiana_clusii	70

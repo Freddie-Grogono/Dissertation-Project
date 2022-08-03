@@ -1,0 +1,2 @@
+Dianthus_deltoides	25
+Origanum_syriacum	75

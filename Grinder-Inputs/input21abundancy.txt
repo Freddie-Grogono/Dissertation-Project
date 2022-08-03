@@ -1,0 +1,3 @@
+Helianthus_tuberosus	10
+Viburnum_opulus	10
+Dahlia_coccinea	80

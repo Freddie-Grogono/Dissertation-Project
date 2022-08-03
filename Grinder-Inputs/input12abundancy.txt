@@ -1,0 +1,3 @@
+Dahlia_coccinea	25
+Fallopia_convolvulus	25
+Euphorbia_amygdaloides	50

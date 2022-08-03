@@ -1,0 +1,4 @@
+Mertensia_maritima	30
+Cichorium_intybus	30
+Luzula_sylvatica	30
+Nelumbo_nucifera	10

@@ -1,0 +1,3 @@
+Anemone_narcissiflora	20
+Galium_verum	50
+Campanula_glomerata	30

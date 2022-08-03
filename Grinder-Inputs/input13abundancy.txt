@@ -1,0 +1,4 @@
+Echium_vulgare	25
+Origanum_vulgare	25
+Hedera_helix	25
+Geum_rivale	25

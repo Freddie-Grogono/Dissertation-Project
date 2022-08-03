@@ -1,0 +1,3 @@
+Convallaria_majalis	30
+Sanguisorba_officinalis	40
+Gomphrena_flaccida	30

@@ -1,0 +1,4 @@
+Prunus_laurocerasus	10
+Silene_uniflora	10
+Euphorbia_amygdaloides	10
+Meconopsis_cambrica	70

@@ -1,0 +1,4 @@
+Caltha_palustris	10
+Passiflora_murucuja	10
+Scaevola_albida	10
+Origanum_vulgare	70

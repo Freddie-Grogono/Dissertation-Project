@@ -1,0 +1,4 @@
+Menyanthes_trifoliata	30
+Mentha_aquatica	30
+Rosa_omeiensis	30
+Calluna_vulgaris	10

@@ -1,0 +1,3 @@
+Rosa_omeiensis	90
+Lamium_galeobdolon	5
+Cichorium_intybus	5

@@ -1,0 +1,3 @@
+Tanacetum_vulgare	30
+Dianthus_deltoides	40
+Passiflora_murucuja	30

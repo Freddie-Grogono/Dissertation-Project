@@ -1,0 +1,3 @@
+Meconopsis_cambrica	10
+Veronicastrum_stenostachyum	50
+Valeriana_officinalis	40

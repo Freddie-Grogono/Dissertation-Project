@@ -1,0 +1,3 @@
+Geum_rivale	90
+Hieracium_umbellatum	5
+Rosa_canina	5

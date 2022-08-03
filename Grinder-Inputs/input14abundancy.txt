@@ -1,0 +1,3 @@
+Cirsium_vulgare	20
+Fragaria_vesca	50
+Asparagus_officinalis	30
