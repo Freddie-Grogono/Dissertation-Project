@@ -1,4 +1,4 @@
-# script that generate 
+# script to generate samples
 import sys 
 import os
 import re
